@@ -1,0 +1,32 @@
+{
+  "name": "space-align",
+  "version": "0.0.1",
+  "main": "lib/space-align",
+  "description": "Align your data with spaces.",
+  "keywords": [
+    "data",
+    "format",
+    "align"
+  ],
+  "homepage": "https://github.com/maximilianschmitt/space-align",
+  "bugs": "https://github.com/maximilianschmitt/space-align/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Maximilian Schmitt",
+    "email": "maximilian.schmitt@googlemail.com",
+    "url": "http://maximilianschmitt.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianschmitt/space-align.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}

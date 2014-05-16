@@ -20,9 +20,9 @@ var data = [
     ['aTmhFgdJCsjkVXAtEDyX', 35, 'AUSG', 'lHMLn']
 ];
 
-var aligned = spaceAlign(data);
+var alignedData = spaceAlign(data);
 
-alignedData.forEach(function(alginedRow) {
+alignedData.forEach(function(alignedRow) {
     console.log(alignedRow);
 });
 ```
